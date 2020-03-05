@@ -1,0 +1,31 @@
+What is git?
+    Version Control
+    Snapshot
+    To add data
+    Integrity
+
+Three States
+    modified, staged, committed  (local git database)
+
+
+Installing Git:
+
+
+Install home-brew
+********************
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+To Install git
+********************
+brew install git
+
+Commands
+*********
+
+git --version       //gives git version
+git status             // status of changes
+git add             //to stage the files
+git diff               //not just what you changed but which files you changed
+
+
+

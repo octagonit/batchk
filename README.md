@@ -1,2 +1,2 @@
 # batchk
-This repository will contain all the code snippets discussed
+This repository will contain all the code snippets discussed.
